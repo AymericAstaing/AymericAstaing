@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aymeric Astaing</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Javascript+Software+Engineer;Back-end+expert;Node.js+%7C+React.js+%7C+Next.js&width=500&height=50""></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Javascript+Software+Engineer;Back-end+Expert;Node.js+%7C+React.js+%7C+Next.js&width=500&height=50""></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymericastaing" alt="aymericastaing" /></a> </p>
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/3M8Xfui](https://bit.ly/3M8Xfui)
 
-- ⚡ Fun fact **i did a road trip in Europe by car for 5 months (25 countries, 25,000km).**
+- ⚡ Fun fact **i did a road trip in Europe by car for 5 months (25 countries, 25.000km).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
