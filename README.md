@@ -6,7 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymericastaing" alt="aymericastaing" /></a> </p>
 
-- 🔭 I’m currently working on **a communication project on Instagram (Node.js, React.js)** (more than 50 repos in total)
+- 🔭 I’m currently working on **a communication project on Instagram (Node.js, React.js)**
+
+- ✨ more than 50 repos in total
 
 - 🌱 I’m currently learning **Flutter, Angular**
 
