@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **innovative start-up projects (in freelance)**
 
-- 💬 Ask me about **Javascript, Node.js, React.js, Next.js**
+- 💬 Ask me about **Javascript, Node.js, React.js, Next.js (React Native)**
 
 - 📫 How to reach me **aymeric-astaing@hotmail.com**
 
