@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymericastaing" alt="aymericastaing" /></a> </p>
 
-- 🔭 I’m currently working on **a communication project on Instagram (Node.js, React.js)**
+- 🔭 I’m currently working on **a communication project on Instagram (Node.js, React.js)** (more than 50 repos in total)
 
 - 🌱 I’m currently learning **Flutter, Angular**
 
@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://bit.ly/3M8Xfui](https://bit.ly/3M8Xfui)
 
-- ⚡ Fun fact **i did a road trip in Europe by car for 5 months (25 countries, 25.000km).**
+- ⚡ Fun fact **i did a road trip in Europe, alone and by car for 5 months (25 countries, 25.000km).**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
