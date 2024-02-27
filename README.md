@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymericastaing" alt="aymericastaing" /></a> </p>
 
-- 🔭 I’m currently working on **a communication project on Instagram (Node.js, React.js)**
+- 🔭 I’m currently working on **fidelity management system with Adonis.js and Vue.js 3**
 
 - ✨ more than 50 repos in total
 
-- 🌱 I’m currently learning **Flutter, Angular**
+- 🌱 I’m currently learning **Vue.js, Adonis.js**
 
 - 👯 I’m looking to collaborate on **innovative start-up projects (in freelance)**
 
