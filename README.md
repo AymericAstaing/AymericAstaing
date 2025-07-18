@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aymeric Astaing</h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Javascript+Software+Engineer;Back-end+Expert;Node.js+%7C+React.js+%7C+Next.js&width=500&height=50""></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=2962FF&center=true&lines=Javascript+Software+Engineer;Back-end+Expert;Node.js+%7C+React/Next.js+%7C+React Native&width=500&height=50""></a>
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aymericastaing" alt="aymericastaing" /></a> </p>
