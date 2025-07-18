@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **aymeric-astaing@hotmail.com**
 
-- 📄 Know about my experiences [https://bit.ly/3M8Xfui](https://bit.ly/3M8Xfui)
+- 📄 Know about my experiences with my [curriculum](https://bit.ly/3GQYNJT)
 
 - ⚡ Fun fact **i did a road trip in Europe, alone and by car for 5 months (25 countries, 25.000km).**
 
