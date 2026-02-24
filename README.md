@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aymeric-astaing@hotmail.com**
 
-- 📄 Know about my experiences with my [curriculum](https://bit.ly/cv-aymeric-one-page)
+- 📄 Know about my experiences with my [curriculum](https://bit.ly/cv-one-page-aymeric-astaing)
 
 - 🔭 I am currently working on a **sociology and news project**
 
